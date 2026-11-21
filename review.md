@@ -130,3 +130,6 @@ SM-2 我用来做间隔重复（easiness / interval / repetitions / due_date / l
 - 逐音素正文标红的位置映射还没做；句子级四维暂时也跟专家分对不上。
 
 这些我都如实记着，不编达标数据骗自己。
+---
+
+**数据和署名**：speechocean762 — Zhang et al., *speechocean762: An Open-source Non-native English Speech Corpus for Pronunciation Assessment*, Interspeech 2021. CC BY 4.0 授权。标定数据不随软件分发，只用来定阈值。
